@@ -13,6 +13,5 @@
 ```
 ctrl + p
 ```
-其中有一個選項是 **_SSL certificate path_**，設定成你的憑證路徑，設定好後儲存就可以用了
-。
-程式碼引用[Joyous 工程師の師](https://www.youtube.com/watch?v=BXHbl0vgaYw&ab_channel=Joyous%E5%B7%A5%E7%A8%8B%E5%B8%AB%E3%81%AE%E5%B8%AB)
+其中有一個選項是 **_SSL certificate path_**，設定成你的憑證路徑，設定好後儲存就可以用了。  
+程式碼引用: [Joyous 工程師の師](https://www.youtube.com/watch?v=BXHbl0vgaYw&ab_channel=Joyous%E5%B7%A5%E7%A8%8B%E5%B8%AB%E3%81%AE%E5%B8%AB)
