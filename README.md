@@ -1,6 +1,7 @@
 # opencv_gesture
 ### 使用anaconda工具做開發
-如果遇到電腦是公司的情況，有可能會安裝失敗。
+[安裝載點]<https://www.anaconda.com/download/success>
+如果遇到電腦是公司的情況，有可能會安裝失敗，以下步驟將排除錯誤。
 #### 步驟一:
 [官方網站]<https://repo.anaconda.com/>
 #### 步驟二:
